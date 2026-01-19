@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Suhel Abbas</h1>
 <h3 align="center">A passionate AI and full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrabbas07&label=Profile%20views&color=0e75b6&style=flat" alt="mrabbas07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrabbas07" alt="mrabbas07" /></a> </p>
 
