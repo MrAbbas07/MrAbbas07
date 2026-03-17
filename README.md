@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrabbas07" alt="mrabbas07" /></a> </p>
 
-- 🔭 I’m currently working on **AROMA - AYUSH Repository of Medicinal Applications**
+- 🔭 I’m currently working at **Progton Software Pvt Ltd.**
 
 - 👯 I’m looking to collaborate on **Full Stack or AI based projects**
 
