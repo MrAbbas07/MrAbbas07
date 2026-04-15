@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **m.s.abbas781@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gc0rGbtVUFDxuchbKiT3S_HyIBLPyxpS/view?usp=sharing](https://drive.google.com/file/d/1gc0rGbtVUFDxuchbKiT3S_HyIBLPyxpS/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HPaHfjT6DFOFOO_2ZBGdF61VbThazuwJ/view?usp=sharing)
 
 - ⚡ Fun fact **I learn things quickly**
 
